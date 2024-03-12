@@ -1,0 +1,22 @@
+{
+  "name": "cs-progress-steps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nahidnawalnayim/my_npm_packages.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "nahid nawal",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/nahidnawalnayim/my_npm_packages/issues"
+  },
+  "homepage": "https://github.com/nahidnawalnayim/my_npm_packages#readme"
+}
